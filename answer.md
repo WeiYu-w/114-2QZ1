@@ -71,16 +71,16 @@ git push -u origin add_course
 ```
 
 ### 任務三：
-1. 回到 main 分支。
+1. 回到 main 分支。✅
 ```bash
 git checkout main
 ```
 
-2. 依序合併 add_plan 與 add_course 。
+2. 依序合併 add_plan 與 add_course 。✅
 ```bash
 git merge add_plan
 git merge add_course
 ```
 
-3. 觀察會發生什麼事？ 請產生上述相對應檔案後，截圖，並完成 answer.md檔案後，並傳成PDF，再推上個 人github ( main 分支)
+3. 觀察會發生什麼事？ 請產生上述相對應檔案後，截圖，並完成 answer.md檔案後，並傳成PDF，再推上個 人github ( main 分支)✅
 ![分支衝突](merge.png)
